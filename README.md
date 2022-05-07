@@ -12,4 +12,4 @@ The following image shows the Tech Blog application's appearance:
 ![Text Editor Image](./client/src/images/textEditor.png)
 
 
-You can get in into the App in the next link in Heroku [Text Editor](https://tech-blog-magg.herokuapp.com/) for testing.
+You can get in into the App in the next link in Heroku [Text Editor](https://text-editor-magg.herokuapp.com//) for testing.
